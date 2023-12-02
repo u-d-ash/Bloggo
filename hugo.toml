@@ -1,0 +1,44 @@
+baseURL = 'https://oyeudiudi.com/'
+languageCode = 'en-us'
+title = '(u_d) : a blog'
+theme = 'PaperMod'
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+defaultTheme = 'dark'
+disableThemeToggle = true
+
+[params.profileMode]
+enabled = true
+title = "udit jethva"
+subtitle = "paint the sky, a shade of hooloovoo !" 
+imageUrl = "/images/profile.png"
+imageTitle = "a good bad boi"
+imageWidth = 180
+imageHeight = 180
+
+[[menu.main]]
+identifier = "blog posts"
+name = "blog"
+url = "/blogposts/"
+weight = 30
+
+[[menu.main]]
+identifier = "about me"
+name = "about me"
+url = "/aboutme/"
+weight = 30
+
+[[params.socialIcons]]
+name = "Linkedin"
+url = "https://in.linkedin.com/in/u8d8ash8/"
+
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://www.instagram.com/u_d_ash_/"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/u-d-ash"

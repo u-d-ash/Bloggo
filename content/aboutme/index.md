@@ -8,10 +8,10 @@ draft = false
 
 \
 hey there !\
-it feels nice to know that someone is curious about me :)\
+it feels nice to know that someone is curious about me :) *(or maybe you just wanted to see whether this guy has completed the website or not)*\
 \
 my name is udit jethva, a mathematics sophomore at iit guwahati\
-i struggle in my academics so i find solace in my hobbies
+i **struggle** in my academics so i find solace in my hobbies
 
 ##### My Hobbies
 * **unpursued hobbies** : doodling, reading novels

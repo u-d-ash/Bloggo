@@ -1,4 +1,4 @@
-baseURL = 'https://oyeudiudi.com/'
+baseURL = 'http://oyeudiudi.com/'
 languageCode = 'en-us'
 title = '(u_d) : a blog'
 theme = 'PaperMod'

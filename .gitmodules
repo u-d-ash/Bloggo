@@ -1,0 +1,3 @@
+[submodule "themes/custompaper"]
+	path = themes/custompaper
+	url = https://github.com/u-d-ash/custompaper.git

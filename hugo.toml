@@ -1,7 +1,7 @@
 baseURL = 'http://oyeudiudi.com/'
 languageCode = 'en-us'
 title = '(u_d) : a blog'
-theme = 'PaperMod'
+theme = 'custompaper'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]

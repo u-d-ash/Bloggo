@@ -13,8 +13,9 @@ disableThemeToggle = true
 [params.profileMode]
 enabled = true
 title = "udit jethva"
-subtitle = "paint the sky, a shade of hooloovoo !" 
-imageUrl = "images/profile.png"
+subtitle = "paint the sky, a shade of hooloovoo !"
+imageTitle = "a good bad boi"
+imageUrl = "profile.png"
 imageWidth = 180
 imageHeight = 180
 

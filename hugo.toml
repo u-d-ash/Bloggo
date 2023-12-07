@@ -20,9 +20,9 @@ imageWidth = 180
 imageHeight = 180
 
 [[menu.main]]
-identifier = "blog posts"
-name = "blog"
-url = "/blogposts"
+identifier = "blogposts"
+name = "blogposts"
+url = "/blogposts/"
 weight = 30
 
 [[menu.main]]

@@ -15,21 +15,27 @@ enabled = true
 title = "udit jethva"
 subtitle = "paint the sky, a shade of hooloovoo !"
 imageTitle = "a good bad boi"
-imageUrl = "profile.png"
+imageUrl = "lmao.png"
 imageWidth = 180
 imageHeight = 180
 
 [[menu.main]]
-identifier = "blogposts"
-name = "blogposts"
-url = "/blogposts/"
-weight = 30
+identifier = "a"
+name = "myself"
+url = "/aboutme/"
+weight = 5
 
 [[menu.main]]
-identifier = "about me"
-name = "about me"
-url = "/aboutme/"
-weight = 30
+identifier = "b"
+name = "jinsei"
+url = "/blogposts/"
+weight = 10
+
+[[menu.main]]
+identifier = "c"
+name = "sugaku"
+url = "/sugaku/"
+weight = 15
 
 [[params.socialIcons]]
 name = "Linkedin"

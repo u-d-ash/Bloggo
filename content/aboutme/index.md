@@ -1,31 +1,32 @@
 +++
-title = 'about me'
+title = 'myself'
 draft = false
+description = 'tall pole with a nest on top'
 +++
 
-
+---
 > If you don't know who said it, just say Master Oogway did - Master Oogway
 
 \
 hey there !\
-it feels nice to know that someone is curious about me :) *(or maybe you just wanted to see whether this guy has completed the website or not)*\
 \
-my name is udit jethva, a mathematics sophomore at iit guwahati\
-i **struggle** in my academics so i find solace in my hobbies
+it feels great to know that someone is curious about me :) *(or maybe you just wanted to see whether this guy has completed the website or not)*\
+\
+My name is Udit Jethva, a Mathematics sophomore at Indian Institute of Technology, Guwahati.
+\
+\
+Starting a blog was always on my bucket list, and one winter I decided to make it happen. So here it is :
 
-##### My Hobbies
-* **unpursued hobbies** : doodling, reading novels
-* **pursued hobbies** : playing tennis, listening music
-* **partially pursued** : quizzing, solving puzzles, writing, watching movies
+**(u_d) : a blog**
 
-(i know it's cliche but ... can't sway from the truth)
+I don't know for now, how committed I am going to be for this side quest of mine but I will try to make every post an enjoyable read\
+.\
+.\
+.
 
-**fun fact : people have also accused me of multi-personality disorder (and they maybe right x_x )**
+fuck no. i will write however i feel like.
 
-expect cool random sh*t in my blog posts (they may be nerdy at times, don't blame me !)
-
-fin.
-
+ciao.
 
 
 

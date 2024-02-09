@@ -28,7 +28,7 @@ weight = 5
 [[menu.main]]
 identifier = "b"
 name = "jinsei"
-url = "/blogposts/"
+url = "/jinsei/"
 weight = 10
 
 [[menu.main]]

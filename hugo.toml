@@ -4,7 +4,7 @@ title = '(u_d) : a blog'
 theme = 'custompaper'
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = ["HTML", "RSS", "JSON"]
 
 [params]
 defaultTheme = 'dark'

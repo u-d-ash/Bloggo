@@ -2,7 +2,6 @@
 title = 'bytes of lyf'
 draft = false
 +++
-
 ---
 ### byte # 1 ###
 #### 23/02/24 1950 hrs ####

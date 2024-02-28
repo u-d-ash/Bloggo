@@ -13,7 +13,9 @@ description = 'what the eyes see, what the mind thinks (censored version)'
 Wanted to test out this site and write my first post so I chose the worst possible way to do it. This is partly due to the reason that I had lost half my brain cells at home during my winter break.
 \
 \
-**Blogpost # 1**  : **[ngl, it was fun](https://u-d-ash.github.io/Bloggo/blogposts/ngl/)**
+**Blogpost # 1**  : **[ngl, it was fun](https://u-d-ash.github.io/Bloggo/jinsei/)** \
+\
+*(I removed it, the cringe was killing me, it's still in the repo though)*
 
 ---
 

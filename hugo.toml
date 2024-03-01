@@ -3,12 +3,15 @@ languageCode = 'en-us'
 title = '(u_d) : a blog'
 theme = 'custompaper'
 
+disqusShortname = 'uditjethva'
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
 [params]
 defaultTheme = 'dark'
 disableThemeToggle = true
+comments = true
 
 [params.profileMode]
 enabled = true

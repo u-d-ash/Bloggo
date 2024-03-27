@@ -1,4 +1,4 @@
-baseURL = 'http://oyeudiudi.com/'
+baseURL = 'https://u-d-ash.github.io/Bloggo/'
 languageCode = 'en-us'
 title = '(u_d) : a blog'
 theme = 'custompaper'
@@ -8,9 +8,19 @@ disqusShortname = 'bloggo-1'
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['$$', '$$']]
+          inline = [['@', '@']]
+
 [params]
 defaultTheme = 'dark'
 disableThemeToggle = true
+math = true
 comments = true
 
 [params.profileMode]
@@ -18,7 +28,7 @@ enabled = true
 title = "udit jethva"
 subtitle = "paint the sky, a shade of hooloovoo !"
 imageTitle = "a good bad boi"
-imageUrl = "lmao.png"
+imageUrl = "pix.png"
 imageWidth = 180
 imageHeight = 180
 

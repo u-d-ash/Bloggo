@@ -23,32 +23,22 @@ disableThemeToggle = true
 math = true
 comments = true
 
-[params.profileMode]
-enabled = true
+[params.homeInfoParams]
 title = "udit jethva"
-subtitle = "paint the sky, a shade of hooloovoo !"
-imageTitle = "a good bad boi"
+content = "paint the sky, a shade of hooloovoo !"
 imageUrl = "pix.png"
-imageWidth = 180
-imageHeight = 180
 
 [[menu.main]]
-identifier = "a"
-name = "myself"
-url = "/aboutme/"
-weight = 5
-
-[[menu.main]]
-identifier = "b"
-name = "jinsei"
-url = "/jinsei/"
+indentifier = "b"
+name = "burogu"
+url = "/burogu/"
 weight = 10
 
 [[menu.main]]
-identifier = "c"
-name = "sugaku"
-url = "/sugaku/"
-weight = 15
+identifier = "d"
+name = "konton"
+url = "/konton/"
+weight = 20
 
 [[params.socialIcons]]
 name = "Linkedin"

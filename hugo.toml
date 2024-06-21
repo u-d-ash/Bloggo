@@ -26,18 +26,15 @@ math = true
 comments = true
 disableSpecial1stPost = true
 
-
-
 [params.homeInfoParams]
 title = "udit jethva"
 content = "paint the sky, a shade of hooloovoo !"
 imageUrl = "pix.png"
 
-
 [[menu.main]]
 indentifier = "b"
 name = "blog"
-url = "/blogposts/"
+url = "/blogmain/"
 weight = 10
 
 [[menu.main]]

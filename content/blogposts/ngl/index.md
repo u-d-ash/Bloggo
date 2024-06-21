@@ -2,7 +2,6 @@
 title = 'ngl, it was fun !'
 date = 2023-12-07T11:45:16+05:30
 draft = false
-description = 'but I am not doing it again'
 +++
 ---
 > You must let go of your fear of being cringe in order to be free - Master Oogway

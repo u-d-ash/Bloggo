@@ -1,10 +1,21 @@
 +++
-title = '混沌'
 draft = false
 +++
----
 
-#### 24.03.24, 1145
+#### 11.06.24, 1410 hrs
+
+{{< spoiler prompt = "Just finished watching Love ...">}}
+<p>
+Just finished watching Love, Death + Robots on Netflix. Here is the first tierlist I ever made in my life <i>(because why not ;D)</i>
+</p>
+
+{{< figure src="ldr.png" align="center" width="600">}}
+
+Not the best use of your summer break time but I was not able to help it...
+
+{{</ spoiler >}}
+
+#### 24.03.24, 1145 hrs
 
 {{< spoiler prompt = "F1 is sick ...">}}
 <p>
@@ -18,7 +29,7 @@ I am just new to the game so haven’t really picked a side to be loyal to but I
 
 {{</ spoiler >}}
 
-#### 23.02.24, 1950
+#### 23.02.24, 1950 hrs
 
 {{< spoiler prompt = "Tomorrow is my Real Analysis midsem ...">}}
 <p>

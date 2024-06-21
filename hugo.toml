@@ -9,8 +9,10 @@ disqusShortname = 'bloggo-1'
 home = ["HTML", "RSS", "JSON"]
 
 [markup]
+  defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.extensions]
+      footnote = true
       [markup.goldmark.extensions.passthrough]
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
@@ -22,21 +24,25 @@ defaultTheme = 'dark'
 disableThemeToggle = true
 math = true
 comments = true
+disableSpecial1stPost = true
+
+
 
 [params.homeInfoParams]
 title = "udit jethva"
 content = "paint the sky, a shade of hooloovoo !"
 imageUrl = "pix.png"
 
+
 [[menu.main]]
 indentifier = "b"
-name = "burogu"
-url = "/burogu/"
+name = "blog"
+url = "/blogposts/"
 weight = 10
 
 [[menu.main]]
 identifier = "d"
-name = "konton"
+name = "gossip"
 url = "/konton/"
 weight = 20
 

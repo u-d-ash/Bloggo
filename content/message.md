@@ -24,7 +24,4 @@ If my room is locked, then I might be out for :
 > * quizzing 
 > * a good movie
 
-I don't fully know what I am doing with this blog . . . 
-\
-\
-***fck the blog i don't even know what I'm doing with my life***
+I don't fully know what I am doing with this blog . . .

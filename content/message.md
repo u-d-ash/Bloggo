@@ -4,7 +4,7 @@
 My name is Udit Jethva, a mathematics junior at the Indian Institute of Technology, Guwahati.
 \
 \
-I am a person of many interests but no real passion.
+I am a person of many interests and can yap on a lot of random topics for hours !!!
 \
 \
 If you barge into my room at any arbitrary time, you may find me:

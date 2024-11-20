@@ -1,6 +1,6 @@
 baseURL = 'https://u-d-ash.github.io/Bloggo/'
 languageCode = 'en-us'
-title = '(u_d) : a blog'
+title = "रमताजोगी (μ_d) baba"
 theme = 'custompaper'
 
 disqusShortname = 'bloggo-1'

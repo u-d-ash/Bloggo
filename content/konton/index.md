@@ -1,8 +1,28 @@
 +++
+title = "the shitcom episodes"
 draft = false
 +++
+---
 
-#### 20.11.24, 1838 hrs
+#### 08/12, 2035 hrs ####
+
+{{< spoiler prompt = "With this, the 2024 ...">}}
+<p>
+With this, the 2024 Formula 1 season comes to an end. :')
+<p>
+
+<p>
+Supporting the Scuderia was one heck of an experience, and I look forward to more of the "Holy Shit!", "Damn it!!", "WTF", "Let's fucking go!" weekends and contemplating my life choices every now and then.
+</p>
+
+<p>
+We were left just a few points shy of the championship and it does hurt a bit. Leclerc pulled an absolute masterclass in Abu Dhabi and I really want that man to take the Drivers' championship next year. With Lewis coming in, even Contructors' can be ours. I feel sad for Carlos. Him being the P1 of the very first race I watched would always keep him in a special place for me. I wish him the very best of time in Williams (secretly want him to pull an Alain Prost).
+</p>
+
+Well, the F1 lore continues. March awaits.
+{{</ spoiler >}}
+
+#### 20/11, 1838 hrs ####
 
 {{< spoiler prompt = "Woh engineering hi kya ...">}}
 <p>
@@ -22,10 +42,10 @@ I am on the verge of failing a course this semester. I wrote the final today and
 So what went wrong? In retrospect, I feel that I understood the subject matter well but didn't study before exams and was horrible in execution during tests. 
 </p>
 
-<p>My friends believe in me though. Tanush offered me to hedge on my final grade. I hope I lose my money.</p>
+My friends believe in me though. Tanush offered me to hedge on my final grade. I hope I lose my money.
 {{</ spoiler >}}
 
-#### 28.09.24, 2334 hrs
+#### 28/09, 2334 hrs ####
 
 {{< spoiler prompt = "This amazing Netflix interactive called ...">}}
 
@@ -50,7 +70,7 @@ The painting is taking shape, let the artist go wild !
 
 {{</ spoiler >}}
 
-#### 06.08.24, 2107 hrs
+#### 06/08, 2107 hrs ####
 
 {{< spoiler prompt = "It feels so great ...">}}
 
@@ -71,7 +91,7 @@ Made me realise that we, humans, take so many little things for granted.
 
 {{</ spoiler >}}
 
-#### 11.06.24, 1410 hrs
+#### 11/06, 1410 hrs ####
 
 {{< spoiler prompt = "Just finished watching Love ...">}}
 <p>
@@ -84,7 +104,7 @@ Not the best use of your summer break time but I was not able to help it...
 
 {{</ spoiler >}}
 
-#### 24.03.24, 1145 hrs
+#### 24/03, 1145 hrs ####
 
 {{< spoiler prompt = "F1 is sick ...">}}
 <p>
@@ -98,7 +118,7 @@ I am just new to the game so haven’t really picked a side to be loyal to but I
 
 {{</ spoiler >}}
 
-#### 23.02.24, 1950 hrs
+#### 23/02, 1950 hrs 
 
 {{< spoiler prompt = "Tomorrow is my Real Analysis midsem ...">}}
 <p>
@@ -112,4 +132,7 @@ Maybe, the reason of this is the fact that I have to study “real analysis”. 
 </p>
 As of now, looks like the second cipher of the semester is on my way ;)
 {{</ spoiler >}}
+
+
+
 

@@ -1,6 +1,6 @@
 baseURL = 'https://u-d-ash.github.io/Bloggo/'
 languageCode = 'en-us'
-title = "रमताजोगी (μ_d) baba"
+title = "(μ_d) baba"
 theme = 'custompaper'
 
 disqusShortname = 'bloggo-1'
@@ -47,6 +47,12 @@ weight = 10
 identifier = "d"
 name = "gossip"
 url = "/konton/"
+weight = 20
+
+[[menu.main]]
+identifier = "a"
+name = "pastimes"
+url = "/hobbo/"
 weight = 20
 
 [[params.socialIcons]]

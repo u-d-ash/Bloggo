@@ -1,22 +1,10 @@
 #### Hey there ! 
 
 \
-Welcome to this weirdly named webpage which was created impulsively with no fixed purpose, but is slowly taking shape of a ~~blogsite~~, ~~portfolio~~, personal lounge where I can blurt out anything I want.
+Welcome to my lounge. You can call it (μ_d) baba ki gufa ! It's an online space where I express myself freely... because I don't expect a lot of visitors like you ! Now since you stumbled your way over here, how about you explore around. You know, press some buttons, click some links, read some stuff which I've put up; you may like it or maybe not (highly probable). I'll be elated if I discover you took your time here.
 
 \
-I am currently a mathematics junior at IIT Guwahati. My friends say that if they made a sitcom on my college life so far, even Squidward would rate it 5/5 stars. 
-
-\
-I am into movies *(sci-fi, thrillers, romantic, comedies)*, a weird selection of music and games like daily word puzzles, minesweeper, poker,  [geoguessr 🔗](https://www.geoguessr.com/user/65ba3a6e4f4d24f118309af0), [typeracer 🔗](https://data.typeracer.com/pit/profile?user=oye_udi_udi) *(typical nerd stuff)*.
-
-\
-I will watch literally any sport with you, if you explain me the rules well enough. My evenings are spent on the tennis court. "Roger Federer is the greatest ever to hold the racquet" and I will defend this until my grave.
-
-\
-I enjoy quizzing rest of the time. I have made 1/2 sets so far, here they are [🔗](https://drive.google.com/file/d/18j5jqIeLl_HXojF1OVJeD0hCZNyreKg_/view). 
-
-\
-Any recommendation, comment or random chat/reel is always welcome on my Instagram DM.
+Any random recommendation, chat or reel is welcome on my instagram DM. 
 
 \
 Ciao.

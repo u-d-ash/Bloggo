@@ -1,10 +1,49 @@
 +++
-title = "the shitcom episodes"
 draft = false
 +++
+
+## the shitcom episodes
+
 ---
 
-#### 08/12, 2035 hrs ####
+{{< toggle "2025" "open" >}}
+
+
+<h4> 04/01, 1948 hrs </h4>
+
+{{< spoiler prompt = "Well the new year ...">}}
+
+<p>
+Well the new year literally started with WTF (atleast for me). I seriously hope that you had a "happy" new year.
+<p>
+
+<p>
+"Bhai aaj ka kya plan hai?" was bounced around our hostel with no one actually taking charge and it finally led us to spending the last few hours of 2024 watching the movie "Agent Sai Srinivas Atreya" online while stuffing burgers. All of us, sober.
+<p>
+
+<p>
+The next few days were not that great. The semester hadn't started in full swing and I just passed time doing nothing before I got hit with my seasonal bronchitis. I tried playing tennis but was gassed out in mere 30 minutes. A choking muscular grip tightened my lungs. My mouth wide open taking critical puffs of humid air in. I was down with my lungs sirening a rhythmic roar.
+<p>
+
+<p>
+I relied on a cocktail of syrups to improve my condition but that only helped me doze off during afternoons and I was left coughing at midnight. It got worse; a single flight of stairs was now enough to bring me to knees. I finally got a necessary dose of nebulization and am following a strict prescription. Hope to recover soon.
+<p>
+
+<p>
+Watching the third movie of the new year tonight...
+<p>
+
+{{< figure src="vz.png" align="center" width="300">}}
+
+
+
+{{</ spoiler>}}
+
+{{</ toggle>}}
+
+{{< toggle "2024" >}}
+
+<h4> 08/12, 2035 hrs </h4>
 
 {{< spoiler prompt = "With this, the 2024 ...">}}
 <p>
@@ -22,7 +61,7 @@ We were left just a few points shy of the championship and it does hurt a bit. L
 Well, the F1 lore continues. March awaits.
 {{</ spoiler >}}
 
-#### 20/11, 1838 hrs ####
+<h4> 20/11, 1838 hrs </h4>
 
 {{< spoiler prompt = "Woh engineering hi kya ...">}}
 <p>
@@ -45,7 +84,7 @@ So what went wrong? In retrospect, I feel that I understood the subject matter w
 My friends believe in me though. Tanush offered me to hedge on my final grade. I hope I lose my money.
 {{</ spoiler >}}
 
-#### 28/09, 2334 hrs ####
+<h4> 28/09, 2334 hrs </h4>
 
 {{< spoiler prompt = "This amazing Netflix interactive called ...">}}
 
@@ -70,7 +109,7 @@ The painting is taking shape, let the artist go wild !
 
 {{</ spoiler >}}
 
-#### 06/08, 2107 hrs ####
+<h4> 06/08, 2107 hrs </h4>
 
 {{< spoiler prompt = "It feels so great ...">}}
 
@@ -91,7 +130,7 @@ Made me realise that we, humans, take so many little things for granted.
 
 {{</ spoiler >}}
 
-#### 11/06, 1410 hrs ####
+<h4> 11/06, 1410 hrs </h4>
 
 {{< spoiler prompt = "Just finished watching Love ...">}}
 <p>
@@ -104,7 +143,7 @@ Not the best use of your summer break time but I was not able to help it...
 
 {{</ spoiler >}}
 
-#### 24/03, 1145 hrs ####
+<h4>24/03, 1145 hrs</h4>
 
 {{< spoiler prompt = "F1 is sick ...">}}
 <p>
@@ -118,7 +157,7 @@ I am just new to the game so haven’t really picked a side to be loyal to but I
 
 {{</ spoiler >}}
 
-#### 23/02, 1950 hrs 
+<h4>23/02, 1950 hrs</h4>
 
 {{< spoiler prompt = "Tomorrow is my Real Analysis midsem ...">}}
 <p>
@@ -133,6 +172,6 @@ Maybe, the reason of this is the fact that I have to study “real analysis”. 
 As of now, looks like the second cipher of the semester is on my way ;)
 {{</ spoiler >}}
 
-
+{{</ toggle >}}
 
 

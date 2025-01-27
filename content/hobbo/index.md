@@ -11,8 +11,8 @@ draft = false
 Quiz Club was the first society I joined after I got into IIT Guwahati. I had a short stint as a designer in first year but am mostly an active member and quizmaster these days. Represented the institute at 7th Inter IIT Cult Meet. Here are my sets: 
 
 * [**Sci-Echo**](https://drive.google.com/file/d/18j5jqIeLl_HXojF1OVJeD0hCZNyreKg_/view) : My very first quiz, co-hosted with Shreyans. 
+* [**Athleticism**](https://drive.google.com/file/d/1Ka_bYX3NI_Cn69Zkg_E46LtM-1Rs1-NP/view?usp=sharing) : Hosted the sports quiz in inter-hostel quiz cup. Took inspiration from Major Chandrakant Nair's sports quiz held at Inter IIT.
 * **No Gene for Fate** : Going to host another SciBizTech with Prakhar and Divyam this semester.
-* **Athleticism** : Will host my very first solo quiz this February as a part of the GC.
 
 ### doodling
 

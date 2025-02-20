@@ -1,7 +1,7 @@
 +++
 draft = false
 +++
-## (meth)amatics
+### (meth)amatics
 ---
 {{< blogtit "raise > adieu > pzazz" "08.07.24" "https://u-d-ash.github.io/Bloggo/blogposts/wordle_bot/">}}
 

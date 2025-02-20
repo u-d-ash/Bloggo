@@ -49,12 +49,6 @@ name = "gossip"
 url = "/konton/"
 weight = 20
 
-[[menu.main]]
-identifier = "a"
-name = "pastimes"
-url = "/hobbo/"
-weight = 20
-
 [[params.socialIcons]]
 name = "Linkedin"
 url = "https://in.linkedin.com/in/u8d8ash8/"

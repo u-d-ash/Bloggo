@@ -8,6 +8,43 @@ draft = false
 
 {{< toggle "2025" "open" >}}
 
+<h4> 24/02, 1930 hrs </h4>
+
+{{< spoiler prompt = "Live commentary for ...">}}
+
+<p>
+Live commentary for MA373 : Financial Engineering midsem. Yes, this account was actually written during the exam hours.
+<p>
+
+<p>
+<i>"I am writing this in the exam hall. Why? Is it because I am done with the paper and they won't let me out? Nah. Long gone are those days. It's been 37 minutes since this exam started and I am overwhelmed by the new vocabulary which I am encountering for the first time in my life."</i>
+<p>
+
+<p>
+Yeah, I didn't study. I hate this course.
+<p>
+
+<p>
+<i>"Delta, Gamma, Hedge, at-the-money, forward start, up-and-in. These words play a cacophony in my head as I read through. Where is the math? Is this what this is about; memorising weirdass financial contracts and how they work? The physics paper next to me looks much more inviting; much more mathematical. I suppose I should've majored in physics."</i>
+<p>
+
+<p>
+Actually, their courses do get much more interesting than most of my courses. I remember my friend asking my help on some tutorial problem which required really good application of probability. Physics is cool. Might major in it in some other life. 
+<p>
+
+<p>
+<i>"I guess it's time to meditate. Yeah, meditate. Meditate as my peers scribble their way through sheets and I just stare into nothing. Helpless. I just realised I have just filled one side of a paper and attempted only of worth 5/30. This is a new low, even by my standards."</i>
+<p>
+
+On a serious note, I need to buck up or else I am repeating this course...
+
+{{< figure src="images/fin.png" align="center" width="300">}}
+
+
+
+{{</ spoiler>}}
+
+
 <h4> 19/02, 2135 hrs </h4>
 
 {{< spoiler prompt = "I write this while I ...">}}
@@ -28,7 +65,7 @@ However, I just find myself tired and busy playing online blitz chess (I am horr
 I find it difficult to find reasons for this mushy phase. Maybe I am just being lazy (like a bear during winters). Maybe because I am approaching the end of my undergraduate life (only 10 more months on this campus) and need a breath of fresh air. Or maybe because the tennis courts are closed...
 <p>
 
-{{< figure src="ao.png" align="center" width="300">}}
+{{< figure src="images/ao.png" align="center" width="300">}}
 
 
 
@@ -59,7 +96,7 @@ I relied on a cocktail of syrups to improve my condition but that only helped me
 Watching the third movie of the new year tonight...
 <p>
 
-{{< figure src="vz.png" align="center" width="300">}}
+{{< figure src="images/vz.png" align="center" width="300">}}
 
 
 
@@ -163,7 +200,7 @@ Made me realise that we, humans, take so many little things for granted.
 Just finished watching Love, Death + Robots on Netflix. Here is the first tierlist I ever made in my life <i>(because why not ;D)</i>
 </p>
 
-{{< figure src="ldr.png" align="center" width="600">}}
+{{< figure src="images/ldr.png" align="center" width="600">}}
 
 Not the best use of your summer break time but I was not able to help it...
 

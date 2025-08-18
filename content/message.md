@@ -9,11 +9,11 @@ Welcome to my lounge. You can call it (μ_d) baba ki gufa ! It's an online space
 
 > * *6 ft. dark brown eyes. math.* (This wraps it up. ngl.)
 
-Currently a math junior at IIT Guwahati. I find myself involved in a lot of activities at the same time which has led to one of my friends calling me ***the hobby whore***. Personally, I like this nickname a lot because it sounds like a cheap slang for a polymath.
+Currently a math senior at IIT Guwahati. I find myself involved in a lot of activities at the same time which has led to one of my friends calling me ***the hobby whore***. Personally, I like this nickname a lot because it sounds like a cheap slang for a polymath.
 
 
 
-> * I am okayish quizzer. Got the opportunity to represent my institute at 7th Inter IIT Cult Meet and will do the same at Nihilanth 2025. I have acted as a quizmaster on few occasions : [**Sci-Echo**](https://drive.google.com/file/d/18j5jqIeLl_HXojF1OVJeD0hCZNyreKg_/view), [**Athleticism**](https://drive.google.com/file/d/1Ka_bYX3NI_Cn69Zkg_E46LtM-1Rs1-NP/view?usp=sharing) & [A Few Drilling Bits](https://drive.google.com/file/d/1egFhN-U2LEPA3UCdHq6XpVA8-7hgyXGG/view?usp=sharing).
+> * I am okayish quizzer. Got the opportunity to represent my institute at 7th Inter IIT Cult Meet and  Nihilanth 2025. I have acted as a quizmaster on few occasions : [**Sci-Echo**](https://drive.google.com/file/d/18j5jqIeLl_HXojF1OVJeD0hCZNyreKg_/view), [**Athleticism**](https://drive.google.com/file/d/1Ka_bYX3NI_Cn69Zkg_E46LtM-1Rs1-NP/view?usp=sharing) & [**A Few Drilling Bits**](https://drive.google.com/file/d/1egFhN-U2LEPA3UCdHq6XpVA8-7hgyXGG/view?usp=sharing).
 
 > * I am an intermediate level tennis player; serves are my kryptonite. Federer is the GOAT, Nadal comes close second and the Joker is alright. I follow a lot of sports on a regular basis.
 

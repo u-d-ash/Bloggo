@@ -1,33 +1,29 @@
-**Hey there !**
+**hey there !**
 
 \
-Welcome to my lounge. You can call it (μ_d) baba ki gufa ! It's an online space where I express myself freely... because I don't expect a lot of visitors like you. Now since you stumbled your way over here, how about you explore around. You know, press some buttons, click some links, read some stuff which I've put up; you may like it or maybe not (highly probable). I'll be elated if I discover you took your time here.
+welcome to my lounge. you can call it (μ_d) baba ki gufa ! it's an online space where i express myself freely... because I don't expect a lot of visitors like you. now since you stumbled your way over here, how about you explore around. you know, press some buttons, click some links, read some stuff which i've put up; you may like it or maybe not (highly probable). i'll be elated if i discover you took your time here.
+\
+\
+**quick intro** : *a tall gujju guy without generational wealth figuring out life at 22*
+\
+\
+currently a math senior at iit guwahati. i find myself involved in a lot of activities at the same time which has led to one of my friends calling me ***the hobby whore***. really like this nickname because it sounds like a cheap slang for a polymath.
+
+
+> * check out these quizzing sets by a very mid quizzer (me).
+>  > * [**sci-echo**](https://drive.google.com/file/d/18j5jqIeLl_HXojF1OVJeD0hCZNyreKg_/view) : my very first quiz co-hosted with Shreyans. people rated it "way too nerdy".
+> > *  [**athleticism**](https://drive.google.com/file/d/1Ka_bYX3NI_Cn69Zkg_E46LtM-1Rs1-NP/view?usp=sharing) : hosted one for the inter-hostel competition. people said i improved.
+> > * [**a few drilling bits**](https://drive.google.com/file/d/1egFhN-U2LEPA3UCdHq6XpVA8-7hgyXGG/view?usp=sharing) : nihilanth & inter iit cult meet practice sets
+> > * **the miseducation of udit jethva** : my farewell quiz. (coming soon)
+
+
+> * my evenings are spent chasing a yellow ball and putting it across the net. proud #federerpaglu
+
+> * help me find great music, great cinema, great tv, great paperbacks. i like to nerd tf out !
+
 
 \
-**a bit about me**
-
-
-> * *6 ft. dark brown eyes. math.* (This wraps it up. ngl.)
-
-Currently a math senior at IIT Guwahati. I find myself involved in a lot of activities at the same time which has led to one of my friends calling me ***the hobby whore***. Personally, I like this nickname a lot because it sounds like a cheap slang for a polymath.
-
-
-
-> * I am okayish quizzer. Got the opportunity to represent my institute at 7th Inter IIT Cult Meet and  Nihilanth 2025. I have acted as a quizmaster on few occasions : [**Sci-Echo**](https://drive.google.com/file/d/18j5jqIeLl_HXojF1OVJeD0hCZNyreKg_/view), [**Athleticism**](https://drive.google.com/file/d/1Ka_bYX3NI_Cn69Zkg_E46LtM-1Rs1-NP/view?usp=sharing) & [**A Few Drilling Bits**](https://drive.google.com/file/d/1egFhN-U2LEPA3UCdHq6XpVA8-7hgyXGG/view?usp=sharing).
-
-> * I am an intermediate level tennis player; serves are my kryptonite. Federer is the GOAT, Nadal comes close second and the Joker is alright. I follow a lot of sports on a regular basis.
-
-> * I purchased Procreate back in my first semester and I wonder when will it be worth. 
-
-> * I enjoy watching great cinema & TV and am always looking for great book recs, so that I can purchase those paperbacks and never read them :( 
-
-
-
-You might want to press some of these : [🏎️](https://data.typeracer.com/pit/profile?user=oye_udi_udi) [💭](https://xkcd.com/) [📍](https://www.geoguessr.com/user/65ba3a6e4f4d24f118309af0) [🦫](https://www.youtube.com/watch?v=xvFZjo5PgG0)
-[🧩](https://www.nytimes.com/crosswords) [🎾](https://www.youtube.com/watch?v=KTCDxjJvs2U) [🎨](https://www.instagram.com/brainyf_arts/)
+any random recommendation, chat or reel is always welcome on my instagram dm. 
 
 \
-Any random recommendation, chat or reel is welcome on my Instagram DM. 
-
-\
-Ciao.
+ciao.

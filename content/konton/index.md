@@ -8,6 +8,28 @@ draft = false
 
 {{< toggle "2025" "open" >}}
 
+<h4> 04/12, 1115 hrs </h4>
+
+{{< spoiler prompt = "The group chat got ...">}}
+
+<p>The group chat got pretty creative on this one random day, cooking up pornographic movie parodies. Here are some of the good ones. Enjoy !<p>
+<ul>
+    <li>Edging till Tomorrow</li>
+    <li>Curious Case of Benjamin's Butt</li>
+    <li>In Diana, Jones</li>
+    <li>Fill Bill</li>
+    <li>WhipAss</li>
+    <li>Everything, Everyone All At Once</li>
+    <li>Saving Ryan's Privates</li>
+    <li>The Devil Wears Nothing</li>
+    <li>Monty's Python in the Holy Grail</li>
+    <li>Ben Whore</li>
+    <li>The Pursuit of Happy's Ass</li>
+  </ul>
+
+
+{{</ spoiler>}}
+
 <h4> 04/10, 1409 hrs </h4>
 
 {{< spoiler prompt = "A short trip ...">}}

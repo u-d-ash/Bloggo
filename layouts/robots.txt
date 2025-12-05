@@ -1,3 +1,0 @@
-User-agent: *
-Allow: / 
-Sitemap: https://u-d-ash.github.io/Bloggo/sitemap.xml

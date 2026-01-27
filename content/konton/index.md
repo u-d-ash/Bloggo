@@ -1,9 +1,7 @@
 +++
+title = "પંચાત"
 draft = false
 +++
-
-### tidbits of my life
-
 ---
 
 {{< toggle "2025" "open" >}}

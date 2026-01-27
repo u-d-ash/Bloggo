@@ -1,6 +1,6 @@
 baseURL = 'https://u-d-ash.github.io/Bloggo/'
 languageCode = 'en-us'
-title = "(μ_d) baba"
+title = "(u_d) baba"
 theme = 'custompaper'
 
 disqusShortname = 'bloggo-1'
@@ -26,19 +26,37 @@ math = true
 comments = true
 disableSpecial1stPost = true
 
+# 1. DISABLE PROFILE MODE (This restores your preferred layout)
+[params.profileMode]
+enabled = false
+
+# 2. NORMAL WORLD INFO (Your current setup)
 [params.homeInfoParams]
 title = "udit jethva"
+content = "one sidequest after another"
+imageUrl = "pix.png" 
+
+# 3. UPSIDE DOWN WORLD INFO (The new dimension)
+[params.upsideDownInfoParams]
+title = "Udit Jethva"
 content = "paint the sky, a shade of hooloovoo !"
-imageUrl = "pix.png"
+imageUrl = "pix2.jpeg"
+
 
 [params.assets]
 favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
 favicon32x32 = "/favicon-32x32.png"
 apple_touch_icon = "/apple-touch-icon.png"
+disableHLJS = false
 
+# =========================================================
+# MENUS
+# =========================================================
+
+# --- Normal Menu ---
 [[menu.main]]
-indentifier = "b"
+identifier = "b"
 name = "blog"
 url = "/blogmain/"
 weight = 10
@@ -49,6 +67,22 @@ name = "gossip"
 url = "/konton/"
 weight = 20
 
+# --- Upside Down Menu ---
+[[menu.upsidedown]]
+identifier = "writings"
+name = "writings"
+url = "/blogupside/"
+weight = 5
+
+[[menu.upsidedown]]
+identifier = "projects"
+name = "projects"
+url = "/projects/"
+weight = 10
+
+# =========================================================
+# SOCIAL ICONS
+# =========================================================
 [[params.socialIcons]]
 name = "Linkedin"
 url = "https://in.linkedin.com/in/u8d8ash8/"

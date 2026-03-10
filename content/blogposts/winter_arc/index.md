@@ -383,6 +383,9 @@ My last Quiz Cup at the Inter IIT Cultural Meet was over.
 
 ##### camaraderie
 
+{{< figure src="team2.jpg" align="center" width="450" title="team acumen">}}
+
+
 As we all came out of the hall to head for dinner, I took on my responsibility as an "unc" and made a toast about how things would only improve from here — because even though we had scored similar points to last year, the fact that we had qualified more than one prelims, topped one of them, and gotten two teams into the same final was proof of significant growth. All of us went to a pizza joint on campus to celebrate Rachit's birthday.
 
 Amidst all the quizzing, there were some moments that will stay with me for a long time — especially that vivid late-night discussion that started with Aishwarya Rai and Sonali Bendre and somehow blew up to include Mamata Banerjee. I also remember that peaceful lunch on one of those days, when we mocked some nukkad natak participants putting on a show of goofy moves, while sitting on the lawn stuffing Subway sandwiches.

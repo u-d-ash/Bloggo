@@ -81,7 +81,7 @@ Around a week later, after a three-hour flight in the morning, we found ourselve
 
 {{< figure src="beach.jpg" align="center" width="300">}}
 
-Years had passed since the last time I had been to a beach — in fact, I had forgotten what it felt like to be at one. We spent hours getting washed by the waves in the windy weather, bought a few Bisleris to flush out the sand that had made its way into our clothes, had a refreshing tender coconut, and then went for lunch...
+Years had passed since the last time I had been to a beach — in fact, I had forgotten what it felt like to be at one. We spent hours getting washed by the waves in the windy weather, bought a few Bisleris to flush out the sandy aftermath within our clothes, had a refreshing tender coconut, and then went for lunch...
 
 {{< figure src="food.jpg" align="center" width="450">}}
 
@@ -127,7 +127,7 @@ After years of failed trials, I had finally made it to the team in my final year
 
 Boys had Kanpur, Gandhinagar & Jodhpur in their group, while girls had Kanpur, Hyderabad & BHU. Kanpur was common to both.
 
-Team IIT Kanpur was an absolute unit. Both of their teams were rock-solid, and the boys were defending champions that year. Girls' tennis throughout the tournament was *haramball*[^4], except for that one girl from Kanpur who was the only one playing the game the way it was supposed to be played.
+Team IIT Kanpur was an absolute unit. Both of their teams were rock-solid, and the boys were defending that year. Girls' tennis throughout the tournament was *haramball*[^4], except for that one girl from Kanpur who was the only one playing the game the way it was supposed to be played.
 
 ###### matchday 1
 
@@ -173,7 +173,7 @@ They gave us one bagel and Sibi returned them two in the deciding singles.
 
 After the match, we discussed that option 2 might have actually won us the matchup in straight sets.
 
-Girls had their final group stage match against Kanpur. The Kanpur girl — easily the best singles player in the tournament — took down Idhaa in the first match effortlessly. The second player was not as strong as the first, but she knew how to keep the ball in play. Also, during the doubles, Idhaa and Krishna got into a dispute, which didn't help either. Kanpur beat us, as expected.
+Girls had their final group stage match against Kanpur. The Kanpur girl, who was easily the best singles player in the tournament, took down Idhaa in the first match effortlessly. For doubles, Kanpur's second player was not as strong as the first, but she knew how to keep the ball in play. Also, during the match, Idhaa and Krishna got into a dispute, which didn't help either. Kanpur beat us, as expected.
 
 ###### quarterfinals
 
@@ -183,11 +183,11 @@ Everyone who was present at the meet, including the coaches and officials, detes
 
 However, their girls' team, though "mutant"-powered, was like any other girls' team in the tournament. They were beatable. It was the quarter-finals and Sir did not want to risk Idhaa this time, so Krishna played the first singles.
 
-It was a good match, even though the scoreline suggested otherwise: 2–6, 2–6. Krishna gave her absolute best. *"I like what I'm seeing here, bro."* I remember Sibi mentioning this as we watched from the sidelines. The reason she lost was that the opposing player was tactically superior and was able to exploit Krishna's limited agility with drop shots. During this match, I also remember participating in a fun cheering 1v1 with a  Madras gury, and I also recall that the chair umpire was an asshole[^6].
+It was a good match, even though the scoreline suggested otherwise: 2–6, 2–6. Krishna gave her absolute best. *"I like what I'm seeing here, bro."* I remember Sibi mentioning this as we watched from the sidelines. The reason she lost was that the opposing player was tactically superior and was able to exploit Krishna's limited agility with drop shots. During this match, I also remember participating in a fun cheering 1v1 with a  Madras guy, and I also recall that the chair umpire was an asshole[^6].
 
 The doubles began, and once again, Idhaa's game started to crumble. The match was swinging in Madras' direction, but out of nowhere, Krishna twisted her ankle — badly. She removed her shoes to reveal a swelling the size of a potato. She was unable to walk after the limited medical timeout, and the team had to concede the match.
 
-No one wants a match to end due to a player's injury, but that is how the girls' campaign at IISM 2025 ended.
+No one wants a match to end due to a player's injury, but that is how the girls' campaign ended.
 
 It was an improvement in position from the previous year, but our team — especially Idhaa — is full of untapped potential, and I know they may well win a medal or two in the coming years if they work at it throughout the year. I even got Idhaa to commit herself on camera to putting in extra hours on the court, provided she bags an internship.
 
@@ -215,7 +215,7 @@ In the end, though we were returning empty-handed in terms of championship point
 
 ##### timepass
 
-After we were out of the draw, we joined a nearby trek organised by the volunteers in the morning and then spent most of the next two days spectating. The first singles of the Kanpur vs. Bombay semi-final was a legendary match. Come talk to me if you want to hear about it — I am incapable of doing it justice in mere words. Eventually, Kanpur took the overall matchup and advanced to the finals against the doubly "mutant"-powered IIT Madras.
+After we were out of the draw, we joined a nearby trek organised by the volunteers the next morning and then spent most of the next two days spectating. The first singles of the Kanpur vs. Bombay semi-final was a legendary match. Talk to me if you want to hear about it — I am incapable of doing it justice in mere words. Eventually, Kanpur took the overall matchup and advanced to the finals against the doubly "mutant"-powered IIT Madras.
 
 We went to the finals to cheer for Kanpur, but unfortunately the mutants got the better of them without breaking a sweat. Everyone felt for Kanpur boys. Their team deserved nothing less than the top spot on the podium. An eerie silence had blanketed the arena when Madras clinched the match point. No one cheered for them. I suppose the silence was to mourn the violation of the spirit of the Inter IIT Sports Meet. On the girls' side, Madras had beaten Delhi in the finals the day before, taking the seventh[^7] match point of the game.
 
@@ -282,7 +282,7 @@ I was about to return to the hall when a message popped up on my phone.
 
 > *"Both teams into the finals"*
 
-History was made. Our club had struggled to get even a single qualification, and getting two spots out of ten was something we couldn't have imagined before coming here. It was an unbelievable start to our campaign. Finals began, and they played well — they ended up placing 6th and 9th. We did not complain; we had already matched last year's performance. It was only upwards from here.
+History was made. Our club had struggled to get even a single qualification, and getting two spots out of ten was something we couldn't have imagined before coming here. It was an unbelievable start to our campaign. Finals began, and they played well, finally placing 6th and 9th. We did not complain; we had already matched last year's performance. It was only upwards from here.
 
 ###### helm
 

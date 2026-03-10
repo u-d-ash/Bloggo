@@ -6,7 +6,7 @@ draft = false
 
 {{< toggle "2026" "open" >}}
 
-<h4> 15/02, 2150 hrs</h4>
+<h6> 15/02, 2150 hrs</h6>
 
 {{< spoiler prompt = "Getting featured on the meme channel ...">}}
 
@@ -30,7 +30,7 @@ draft = false
 
 {{< toggle "2025"  >}}
 
-<h4> 04/12, 1115 hrs </h4>
+<h6> 04/12, 1115 hrs </h6>
 
 {{< spoiler prompt = "The group chat got ...">}}
 
@@ -52,7 +52,7 @@ draft = false
 
 {{</ spoiler>}}
 
-<h4> 04/10, 1409 hrs </h4>
+<h6> 04/10, 1409 hrs </h6>
 
 {{< spoiler prompt = "A short trip ...">}}
 
@@ -80,7 +80,7 @@ Now, I feel like having some beer at a random pub quiz in London.
 {{</ spoiler>}}
 
 
-<h4> 31/03, 1608 hrs </h4>
+<h6> 31/03, 1608 hrs </h6>
 
 {{< spoiler prompt = "Whoever coined the word ...">}}
 
@@ -106,7 +106,7 @@ I would call it a canon event and move off this now. They are right about <i>Dri
 
 {{</ spoiler>}}
 
-<h4> 24/02, 1930 hrs </h4>
+<h6> 24/02, 1930 hrs </h6>
 
 {{< spoiler prompt = "Live commentary for ...">}}
 
@@ -143,7 +143,7 @@ On a serious note, I need to buck up or else I am repeating this course...
 {{</ spoiler>}}
 
 
-<h4> 19/02, 2135 hrs </h4>
+<h6> 19/02, 2135 hrs </h6>
 
 {{< spoiler prompt = "I write this while I ...">}}
 
@@ -170,7 +170,7 @@ I find it difficult to find reasons for this mushy phase. Maybe I am just being 
 {{</ spoiler>}}
 
 
-<h4> 04/01, 1948 hrs </h4>
+<h6> 04/01, 1948 hrs </h6>
 
 {{< spoiler prompt = "Well the new year ...">}}
 
@@ -204,7 +204,7 @@ Watching the third movie of the new year tonight...
 
 {{< toggle "2024" >}}
 
-<h4> 08/12, 2035 hrs </h4>
+<h6> 08/12, 2035 hrs </h6>
 
 {{< spoiler prompt = "With this, the 2024 ...">}}
 <p>
@@ -222,7 +222,7 @@ We were left just a few points shy of the championship and it does hurt a bit. L
 Well, the F1 lore continues. March awaits.
 {{</ spoiler >}}
 
-<h4> 20/11, 1838 hrs </h4>
+<h6> 20/11, 1838 hrs </h6>
 
 {{< spoiler prompt = "Woh engineering hi kya ...">}}
 <p>
@@ -245,7 +245,7 @@ So what went wrong? In retrospect, I feel that I understood the subject matter w
 My friends believe in me though. Tanush offered me to hedge on my final grade. I hope I lose my money.
 {{</ spoiler >}}
 
-<h4> 28/09, 2334 hrs </h4>
+<h6> 28/09, 2334 hrs </h6>
 
 {{< spoiler prompt = "This amazing Netflix interactive called ...">}}
 
@@ -270,7 +270,7 @@ The painting is taking shape, let the artist go wild !
 
 {{</ spoiler >}}
 
-<h4> 06/08, 2107 hrs </h4>
+<h6> 06/08, 2107 hrs </h6>
 
 {{< spoiler prompt = "It feels so great ...">}}
 
@@ -291,7 +291,7 @@ Made me realise that we, humans, take so many little things for granted.
 
 {{</ spoiler >}}
 
-<h4> 11/06, 1410 hrs </h4>
+<h6> 11/06, 1410 hrs </h6>
 
 {{< spoiler prompt = "Just finished watching Love ...">}}
 <p>
@@ -304,7 +304,7 @@ Not the best use of your summer break time but I was not able to help it...
 
 {{</ spoiler >}}
 
-<h4>24/03, 1145 hrs</h4>
+<h6>24/03, 1145 hrs</h6>
 
 {{< spoiler prompt = "F1 is sick ...">}}
 <p>
@@ -318,7 +318,7 @@ I am just new to the game so haven’t really picked a side to be loyal to but I
 
 {{</ spoiler >}}
 
-<h4>23/02, 1950 hrs</h4>
+<h6>23/02, 1950 hrs</h6>
 
 {{< spoiler prompt = "Tomorrow is my Real Analysis midsem ...">}}
 <p>

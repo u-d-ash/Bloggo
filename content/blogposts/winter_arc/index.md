@@ -151,7 +151,7 @@ Two more points followed and it was boys' first match win in the tournament. Gan
 
 Girls' next match against Hyderabad was a must-win as well. Similar picture in their group: Kanpur would belt everyone, BHU would get belted by everyone. Hyderabad had only one player who knew her groundstrokes; the second player lacked basic fundamentals altogether. We knew that we were going to go through — the question was whether in two matches or three.
 
-Idhaa has the potential to beat the heck out of every girl who was in that tournament. She is physically superior and her technique is sharp. It's only she who can stop herself — and that is exactly what happened. She gets nervous on courts — very nervous. She'd blow up a single point and her entire game would collapse, as if she forgot how to play.
+Idhaa has the potential to beat the heck out of every girl who was in that tournament. She is physically superior and her technique is sharp. It's only she who can stop herself — and that is exactly what happened. She gets nervous on courts, very nervous. She'd blow up a single point and her entire game would collapse, as if she forgot how to play.
 
 During the first singles against Hyderabad, everyone was continually shouting from the sidelines, trying to keep her morale up in difficult moments. She tried her best but eventually lost. However, the girls got the doubles after exploiting Hyderabad's weak link, and then Krishna sealed the victory in the deciding singles match.
 
@@ -167,7 +167,7 @@ Now, Jodhpur were an easy opponent and Sir wanted to rest Sibi for the quarters.
 
 We went with the first option. The Jodhpur player was an easy *haramball* merchant and Pranav got the better of him in straight sets. Hans and I were up next. Now, we are both decent players, but this was the first time we were stepping on the court after that short practice session on Day 0. We lacked rhythm.
 
-We started off well and took a 4–2 lead in the first set. Then it went catastrophically downhill. We were missing volleys, our groundstrokes were going out or into the net, and nerves caught up with us badly. We lost fucking ten games in a row. Final score: 4–6, 0–6. I feel ashamed of myself writing this, but yeah — I now have a 100% loss rate at the Inter IIT Sports Meet. Hans has three more attempts ahead of him — he'll do better, I'm sure.
+We started off well and took a 4–2 lead in the first set. Then it went catastrophically downhill. We were missing volleys, our groundstrokes were going out or into the net, and nerves caught up with us badly. We lost fucking ten games in a row. Final score: 4–6, 0–6. I feel ashamed of myself writing this, but yeah, I now have a 100% loss rate at the Inter IIT Sports Meet. Hans has three more attempts ahead of him — he'll do better, I'm sure.
 
 They gave us one bagel and Sibi returned them two in the deciding singles.
 
@@ -181,13 +181,13 @@ Girls had their final group stage match against Kanpur. The Kanpur girl, who was
 
 Everyone who was present at the meet, including the coaches and officials, detested IIT Madras. Here's [why](https://www.instagram.com/p/C3N3FRIyBy8/?img_index=1).
 
-However, their girls' team, though "mutant"-powered, was like any other girls' team in the tournament. They were beatable. It was the quarter-finals and Sir did not want to risk Idhaa this time, so Krishna played the first singles.
+However, their girls' team, though "mutant"-powered, was like any other girls' team in the tournament. They were beatable. It was the quarter-finals and Sir did not want to bet on Idhaa this time, so Krishna played the first singles.
 
 It was a good match, even though the scoreline suggested otherwise: 2–6, 2–6. Krishna gave her absolute best. *"I like what I'm seeing here, bro."* I remember Sibi mentioning this as we watched from the sidelines. The reason she lost was that the opposing player was tactically superior and was able to exploit Krishna's limited agility with drop shots. During this match, I also remember participating in a fun cheering 1v1 with a  Madras guy, and I also recall that the chair umpire was an asshole[^6].
 
 The doubles began, and once again, Idhaa's game started to crumble. The match was swinging in Madras' direction, but out of nowhere, Krishna twisted her ankle — badly. She removed her shoes to reveal a swelling the size of a potato. She was unable to walk after the limited medical timeout, and the team had to concede the match.
 
-No one wants a match to end due to a player's injury, but that is how the girls' campaign ended.
+No one wants a match to end due to a player's injury, but that is how girls' campaign ended.
 
 It was an improvement in position from the previous year, but our team — especially Idhaa — is full of untapped potential, and I know they may well win a medal or two in the coming years if they work at it throughout the year. I even got Idhaa to commit herself on camera to putting in extra hours on the court, provided she bags an internship.
 
@@ -201,11 +201,11 @@ It was an upset. Kanpur girls were out.
 
 Delhi's main player, Vaibhav, had a forehand that tested the limits of the tennis ball — give him a ball at the optimal height and he would punish you. Sibi had a game plan in mind: slice, slice, and slice. A lower ball would mean he would have to compromise on speed to get the ball over the net.
 
-This battle of two very contrasting playing styles was pure cinema. People from Roorkee, Bombay, Kanpur and a few others joined as the match unfolded. They were calling it the best match of the tournament so far. After two sets of brilliant tennis, the match was level: 4–6, 6–3. We had also developed an off-court rivalry with the ear-splitting cheerleaders of IIT Delhi — their girls' team.
+This battle of two very contrasting playing styles was pure cinema. People from Roorkee, Bombay, Kanpur and a few others joined as the match unfolded. They were calling it the best match of the tournament so far. After two sets of brilliant tennis, the match was level: 4–6, 6–3. We had also developed an off-court rivalry with the ear-splitting cheerleaders of IIT Delhi (their girls' team).
 
 > *"If she doesn't stop then I am going to pop that bitch off."* - Idhaa
 
-The final set was as intense as the previous two — a close fight, but it swayed Delhi's way, 3–6. The doubles match started on a poor note, with Delhi leading 3–0. I should also mention that at this point, Sir was not with us — he was in the city with Krishna for a hospital check-up. I did my best to give tips to Sibi and Pranav as the first set slipped away, 2–6.
+The final set was as intense as the previous two — a close fight, but it swayed Delhi's way, 3–6. The doubles match started on a poor note, with Delhi leading 3–0. I should also mention that at this point, Sir was not with us. He was in the city with Krishna for a hospital check-up. I did my best to give tips to Sibi and Pranav as the first set slipped away, 2–6.
 
 However, they found their rhythm in the second set and Sir had also joined us by then. Both pairs were playing almost at par with each other, but our boys edged them slightly, and though I don't remember the exact scoreline, we had a set point. We did not convert it, unfortunately. Eventually, it reached 6–6 — time for a tiebreak. We started well in the tiebreak but could not see it through.
 
@@ -276,7 +276,7 @@ Our faces drooped, but we asked him to check again. We stood there in silence as
 
 > *"Dono teams ka ho gya."*
 
-Frenzy followed. Never in the history of our club had two teams qualified in the same prelims. Though it was not the finals yet — only the semi-finals — it was a victory in itself. We cheered with wide grins as our teams' names were announced. I headed out for lunch just after the results were declared and was not there to watch the semis.
+Frenzy followed. Never in the history of our club had two teams qualified in the same prelims. Though it was not the finals yet but only the semi-finals, it was a victory in itself. We cheered with wide grins as our teams' names were announced. I headed out for lunch just after the results were declared and was not there to watch the semis.
 
 I was about to return to the hall when a message popped up on my phone.
 
@@ -288,7 +288,7 @@ History was made. Our club had struggled to get even a single qualification, and
 
 HELM stands for History, Etymology, Language and Mythology. This was the first time this quiz was being hosted at the Cultural Meet. We had a strong lineup in our A-team — practically nerds in these areas. We were expecting them to qualify, at the very least.
 
-However, the quizmaster was a dumbass. He did not know what to put in a HELM Quiz and just put in whatever he felt like.
+However, the quizmaster turned out to be a dumbass. He did not know what to put in a HELM Quiz and just put in whatever he felt like.
 
 > *"What is history, anything which happened two seconds before is also history if you think about it."*
 >
@@ -304,7 +304,9 @@ We were disappointed because a few avoidable mistakes had been made, but we also
 
 ###### india
 
-Expectations were extremely high for the India Quiz, because of our new recruits Kaustubh and ADC bhaiya — who we believed were capable of pulling through the prelims single-handedly. Imagine pairing these two with Lalitya, who had established himself as the best India quizzer in our club. To put it simply, they were the Galácticos of the India Quiz.
+Expectations were extremely high for the India Quiz, because of our new recruits Kaustubh and ADC bhaiya — who we believed were capable of pulling through the prelims single-handedly. Imagine pairing these two with Lalitya, who had established himself as the best India quizzer in our club.
+
+To put it simply, they were the Galácticos of the India Quiz.
 
 I was sitting this one out, along with Kirhen and Bhagawati, since I was no *"Dhurandhar"* in India quizzes. We were on standby for the group chat to light up. It was taking longer than usual. *"Maybe the set is long."* Tushif called back after seeing the missed calls. The set was indeed long — the round had just ended and they didn't even have their scores yet. He said he'd update us. Minutes passed, and the three of us headed to the hostel canteen to grab some tea.
 
@@ -316,7 +318,7 @@ I was stunned. Out of words. Holy Cow. Wow. What on earth had just happened? All
 
 > "Bohot kharab chal rha hai. Baad me baat karte hai."
 
-Teams like Madras, Bombay, Delhi and Kharagpur were regulars with decent experience in Inter IIT Finals. For us, going into the finals as prelims toppers was an astronomical change — something no one would have predicted in their wildest dreams. The most experienced member of our Galácticos team was Lalitya — a sophomore. It is an enormous amount of pressure when people expect a great deal from the team and you are effectively in charge of making the difficult calls on whether to pounce or not.
+Teams like Madras, Bombay, Delhi and Kharagpur were regulars with decent experience in Inter IIT Finals. For us, going into the finals as prelims toppers was an astronomical change; something no one would have predicted in their wildest dreams. The most experienced member of our Galácticos team was Lalitya, a sophomore. It is an enormous amount of pressure when people expect a great deal from the team and you are effectively in charge of making the difficult calls on whether to pounce or not.
 
 They finished 9th — out of the points.
 
@@ -328,7 +330,7 @@ They looked dejected when we regrouped in the canteen. This team has potential. 
 
 Finally, it was my turn to be in the A-team (me, Divyam, ADC). At the last Nihilanth, (me, Divyam, Kirhen) had missed the finals by a single point. This time, we wanted to get over the line.
 
-Divyam and I have teamed up on multiple occasions and we know how to present ideas and brainstorm with each other. ADC bhaiya, on the other hand, was something of an extension to our pair. This was the first time the three of us had sat together, since I had to leave for the Sports Meet before our practice drills were fully underway.
+Divyam and I have teamed up on multiple occasions and we know how to present ideas and brainstorm with each other. ADC bhaiya, on the other hand, was something of an extension to our pair. This was the first time the three of us had sat together, since I had to leave for the Sports Meet before our practice drills were in full swing.
 
 We ended up with a score of 21 after the prelims. Before we got any intel on the cutoff, we knew this was going to be on the edge. The cutoff came in at 21, with 5 tiebreaking stars.
 
@@ -338,9 +340,11 @@ I was genuinely heartbroken, because I knew that realistically I would never aga
 
 ###### mela
 
-After the trauma[^8] of the MELA Quiz the previous year, a comeback was needed to banish the ghosts of the past — especially for Shreyansh and Yash. I teamed up with Divyam and Akif and, from the very beginning of the prelims, Divyam and I were simply enjoying the game — cracking jokes and laughing at the answers we didn't know. Apart from that, we thought a qualification was possible in this one as well, since even we as the D-team were getting a lot of answers.
+After the trauma[^8] of the MELA Quiz the previous year, a comeback was needed to banish the ghosts of the past — especially for Shreyansh and Yash. I teamed up with Divyam and Akif and, from the very beginning of the prelims, Divyam and I were simply enjoying the game — cracking jokes and laughing at the made up answers of the questions we didn't know. Apart from that, we thought a qualification was possible in this one as well, since even we as the D-team were getting a lot of answers.
 
-As it turned out, we scored the highest of all — an ordinary 18. Divyam was furious because, as Secretary, he is answerable to those above him who expect championship points from the club's large contingent of 22 people, and an 18 as the top score was unacceptable. He stormed out of the hall; I followed.
+Turns out, we scored the most of all.
+
+An ordinary score of 18 was the highest of all. Divyam was furious because, as Secretary, he is answerable to those above him who expect championship points from the club's large contingent of 22 people, and the performance in this quiz was unacceptable. He stormed out of the hall in anger and I accompanied him.
 
 It came down to the final day.
 
@@ -371,13 +375,13 @@ Baidurya was sitting this one out, so we simply waited. Major stepped up to the 
 
 ###### general
 
-After the heartbreak of the sports quiz, we were attending the general quiz purely for the love of the game. No team of ours had come anywhere close to the general cutoff, so by the trend, we weren't expecting anything. I was with Ishana and Kaustubh and I really enjoyed the set — my team was solid too. We scored around 23, if I remember correctly.
+After the heartbreak of the sports quiz, we were attending the general quiz purely for the love of the game. No team of ours had come anywhere close to the general cutoff, so by the trend, we weren't expecting anything. I was with Ishana and Kaustubh and I really enjoyed the set and my team was fun too. We scored around 23, if I remember correctly.
 
 Divyam, Medha and Kirhen's team had scored a solid 28. We were not expecting anything, but getting through wouldn't hurt. Major was opting for a semi-final format in this quiz — taking the top 7 teams directly, and the top 3 from among the next 10 semifinalists.
 
 Baidurya did his job and signalled a thumbs-up from the stage!
 
-They were through. For the first time, I believe, one of our teams had made it beyond the prelims in Major's general quiz. We cheered loudly as our name was announced — the club loves to celebrate even the smallest victories. The semi-final followed, and they performed well — some very impressive cracks. They finished 5th or 6th out of the 10 semifinalists, just missing out on the final.
+They were through. For the first time, I believe, one of our teams had made it beyond the prelims in Major's general quiz. We cheered loudly as our name was announced — the club loves to celebrate even the smallest victories. The semi-final followed, and they performed well with some very impressive cracks. They finished 5th or 6th out of the 10 semifinalists, just missing out on the final.
 
 My last Quiz Cup at the Inter IIT Cultural Meet was over.
 
@@ -388,11 +392,11 @@ My last Quiz Cup at the Inter IIT Cultural Meet was over.
 
 As we all came out of the hall to head for dinner, I took on my responsibility as an "unc" and made a toast about how things would only improve from here — because even though we had scored similar points to last year, the fact that we had qualified more than one prelims, topped one of them, and gotten two teams into the same final was proof of significant growth. All of us went to a pizza joint on campus to celebrate Rachit's birthday.
 
-Amidst all the quizzing, there were some moments that will stay with me for a long time — especially that vivid late-night discussion that started with Aishwarya Rai and Sonali Bendre and somehow blew up to include Mamata Banerjee. I also remember that peaceful lunch on one of those days, when we mocked some nukkad natak participants putting on a show of goofy moves, while sitting on the lawn stuffing Subway sandwiches.
+Amidst all the quizzing, there were some moments that will stay with me for a long time — especially that vivid late-night discussion that started with Aishwarya Rai and Sonali Bendre and somehow blew up to include likes of Mamata Banerjee. I also remember that peaceful lunch on one of those days, when we mocked some nukkad natak participants putting on a show of goofy moves, while sitting on the lawn stuffing Subway sandwiches.
 
 On the last night, I was down with a cough, chest congestion and a headache, and my room had been converted into a theka to celebrate the end of the event. I shifted to where the third-years were staying because I had a morning cab to catch the next day. Though I had taken some meds before sleeping, I woke up at six in the morning struggling to breathe — the fog and dust had finally caught up with me. I also woke Dubey unintentionally with my sirening lungs. He was kind enough to accompany me to the hospital, where I got nebulised.
 
-I woke up late the next morning — just in time to catch my pre-booked airport cab. Though my breathing had improved, it was still a struggle to travel on a long connecting flight with a terminal change in Delhi.
+I woke up later — just in time to catch my pre-booked airport cab. Though my breathing had improved, it was still a struggle to travel on a long connecting flight with a terminal change in Delhi.
 
 The plane landed at night and I stared out of the window. It was finally over.
 

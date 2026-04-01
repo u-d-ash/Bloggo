@@ -34,7 +34,7 @@ enabled = false
 [params.homeInfoParams]
 title = "udit jethva"
 content = "one sidequest after another"
-imageUrl = "pix.jpg" 
+imageUrl = "profile.jpg" 
 
 # 3. UPSIDE DOWN WORLD INFO (The new dimension)
 [params.upsideDownInfoParams]

@@ -20,7 +20,7 @@ currently a math senior at iit guwahati. i find myself involved in a lot of acti
 
 > * help me find great music, great cinema, great tv, great paperbacks. i like to nerd tf out !
 
-> * a not so pale pail list : [🪣](https://u-d-ash.github.io/Bloggo/blogposts/hundred/)
+> * पेल pail list : [🪣](https://u-d-ash.github.io/Bloggo/blogposts/hundred/)
 
 
 \

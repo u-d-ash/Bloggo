@@ -30,10 +30,6 @@ You're living. When you're feeeling, you're alive.<br>
 The sun doesn't care whether the grass appreciates its rays, it just keeps on shining. <br>
 </i><b>- Ethan Hawke </b></p>
 
-
-
-<p><i>We are in this world, just to give, be kind and spread love and positivity while we are here. There's nothing to gain off anyone; greed has no place.</i></p>
-
 {{</ spoiler >}}
 
 <h6> 15/02, 2150 hrs</h6>

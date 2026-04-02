@@ -22,6 +22,8 @@ currently a math senior at iit guwahati. i find myself involved in a lot of acti
 
 > * पेल pail list : [🪣](https://u-d-ash.github.io/Bloggo/blogposts/hundred/)
 
+> * [subscribe](https://buttondown.com/u_d_baba) for the lore of the name.
+
 
 \
 any random recommendation, chat or reel is always welcome on my instagram dm. 

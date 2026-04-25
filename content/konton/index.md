@@ -6,20 +6,6 @@ draft = false
 
 {{< toggle "2026" "open" >}}
 
-<h6> 12/04, 0004 hrs</h6>
-
-{{< spoiler prompt = "I need to catch ...">}}
-
-<p>I need to catch a showing of "The Drama" at 10 a.m. I am going alone.</p>
-
-<p>It is not the first time that I am going to catch a flick at the cinema hall solo; however, it is the first time that I am feeling lonely. I write this with moist eyes — maybe it's the beer or the vodka that I happened to consume before the graduation dinner party.</p>
-
-<p>Life has once again proven itself to be the most supreme teacher there is.</p>
-
-<p>A beautiful breeze came my way, swept me off my feet, went past, and reality pulled me back down.</p>
-
-{{</ spoiler >}}
-
 <h6> 24/03, 1907 hrs</h6>
 
 {{< spoiler prompt = "Two mfs walking down ...">}}

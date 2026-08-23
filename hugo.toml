@@ -1,4 +1,4 @@
-baseURL = 'https://u-d-ash.github.io/Bloggo/'
+baseURL = 'https://u-d-baba.github.io/Bloggo/'
 languageCode = 'en-us'
 title = "(u_d) baba"
 theme = 'custompaper'
@@ -67,6 +67,12 @@ name = "gossip"
 url = "/konton/"
 weight = 20
 
+[[menu.main]]
+identifier = "e"
+name = "projects"
+url = "/projects/"
+weight = 30
+
 # --- Upside Down Menu ---
 [[menu.upsidedown]]
 identifier = "writings"
@@ -93,4 +99,4 @@ url = "https://www.instagram.com/u_d_ash_/"
 
 [[params.socialIcons]]
 name = "Github"
-url = "https://github.com/u-d-ash"
+url = "https://github.com/u-d-baba"

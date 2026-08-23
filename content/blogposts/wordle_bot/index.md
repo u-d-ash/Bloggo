@@ -134,7 +134,7 @@ The bot I have made is far from perfect.
 * BULKY : Thanks to that nasty matrix
 * GREED : Optimises on the next move, rather than the whole game.
 
-If anyone's interested, here is the code repository : [Mind-Your-Wordle](https://github.com/u-d-ash/Mind-Your-Wordle)
+If anyone's interested, here is the code repository : [Mind-Your-Wordle](https://github.com/u-d-baba/Mind-Your-Wordle)
 
 I will continue working on it because this is far from finished.
 

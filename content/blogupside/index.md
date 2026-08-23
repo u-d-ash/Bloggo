@@ -1,7 +1,0 @@
-+++
-title = 'writings'
-draft = false
-+++
----
-
-

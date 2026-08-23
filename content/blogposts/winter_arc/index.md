@@ -2,9 +2,10 @@
 title = 'winter arc of twenty-five'
 draft = false
 date = 2026-03-10
+[cover]
+image = 'beach.jpg'
 +++
----
-
+\
 I think the best December of my life is behind me. Life is never again going to present me an opportunity to roam around the country, engage in my favourite activities with my crew, while being completely carefree.
 
 Maybe, even if it does — miraculously — I won't be 22 again.

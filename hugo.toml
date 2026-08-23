@@ -21,7 +21,7 @@ home = ["HTML", "RSS", "JSON"]
 
 [params]
 defaultTheme = 'dark'
-disableThemeToggle = true
+disableThemeToggle = false
 math = true
 comments = true
 disableSpecial1stPost = true
@@ -35,13 +35,6 @@ enabled = false
 title = "udit jethva"
 content = "one sidequest after another"
 imageUrl = "profile.jpg" 
-
-# 3. UPSIDE DOWN WORLD INFO (The new dimension)
-[params.upsideDownInfoParams]
-title = "Udit Jethva"
-content = "paint the sky, a shade of hooloovoo !"
-imageUrl = "pix2.jpeg"
-
 
 [params.assets]
 favicon = "/favicon.ico"
@@ -72,19 +65,6 @@ identifier = "e"
 name = "projects"
 url = "/projects/"
 weight = 30
-
-# --- Upside Down Menu ---
-[[menu.upsidedown]]
-identifier = "writings"
-name = "writings"
-url = "/blogupside/"
-weight = 5
-
-[[menu.upsidedown]]
-identifier = "projects"
-name = "projects"
-url = "/projects/"
-weight = 10
 
 # =========================================================
 # SOCIAL ICONS

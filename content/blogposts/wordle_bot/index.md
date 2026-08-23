@@ -2,8 +2,10 @@
 title = 'raise > adieu > pzazz'
 date = 2024-07-08
 draft = false
+[cover]
+image = 'image.png'
 +++
----
+
 Puzzles slipped into my daily routine pretty smoothly. I don't remember how I got into this in first place and it continued growing on me, day by day, slowly and steadily. Here is a stat describing the gravity of my current situation:
 
 > I solve 8 different puzzles[^1] every single day.
